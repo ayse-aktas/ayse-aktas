@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, how are you? 👋<br><br>🌱 I’m currently learning<br>📫 Add me on LinkedIn :)<br><br>
+Hi, how are you? 👋<br><br>🌱 I’m currently learning<br><br>
 
 
 ## 🌐 Socials:
@@ -15,10 +15,5 @@ Hi, how are you? 👋<br><br>🌱 I’m currently learning<br>📫 Add me on Lin
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ayse-aktas&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-[![](https://visitcount.itsvg.in/api?id=ayse-aktas&icon=0&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --># ayse-aktas
